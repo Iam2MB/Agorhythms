@@ -1,1 +1,1 @@
-# Agorhythms
+# Algorithms
