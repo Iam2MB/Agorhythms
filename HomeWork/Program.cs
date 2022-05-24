@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HomeWork
 {
@@ -15,7 +11,7 @@ namespace HomeWork
             Console.SetCursorPosition(0, 0);
             Console.Write("Введите номер запускаемой программы: ");
             string homeworkNumber = Console.ReadLine();
-            Console.SetCursorPosition(0, 2);
+            Console.SetCursorPosition(0, 3);
 
             switch (homeworkNumber)
             {
@@ -27,6 +23,12 @@ namespace HomeWork
                     break;
                 case "1_3":
                     lesson1_3.Lesson1_3();
+                    break;
+                case "2_1":
+                    lesson2_1.DoublyLinkedList();
+                    break;
+                case "2_2":
+                    lesson2_2.BinarySearch();
                     break;
             }
 
