@@ -18,6 +18,7 @@ namespace HomeWork
 			tree.Add(6);
 			tree.Add(5);
 			tree.Add(7);
+			tree.Add(8);
 			tree.Add(9);
 			tree.Add(10);
 
