@@ -33,6 +33,9 @@ namespace HomeWork
                 case "4_1":
                     lesson4_1.StringSearchTest();
                     break;
+                case "4_2":
+                    lesson4_2.BinaryTree();
+                    break;
 
             }
 
