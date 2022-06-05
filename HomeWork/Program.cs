@@ -30,6 +30,10 @@ namespace HomeWork
                 case "2_2":
                     lesson2_2.BinarySearch();
                     break;
+                case "4_1":
+                    lesson4_1.StringSearchTest();
+                    break;
+
             }
 
             Console.ReadKey(true);
