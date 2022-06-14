@@ -33,6 +33,9 @@ namespace HomeWork
                 case "3_1":
                     lesson3_1.Benchmark();
                     break;
+                case "4_1":
+                    lesson4_1.StringSearchTest();
+                    break;
             }
 
             Console.ReadKey(true);
