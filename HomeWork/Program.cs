@@ -36,6 +36,9 @@ namespace HomeWork
                 case "4_1":
                     lesson4_1.StringSearchTest();
                     break;
+                case "5_1":
+                    lesson5_1.BFSDFS();
+                    break;
             }
 
             Console.ReadKey(true);
